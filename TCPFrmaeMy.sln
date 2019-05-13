@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCPFrmaeMy", "TCPFrmaeMy\TCPFrmaeMy.vcproj", "{EDCAAF68-C881-41D8-B35E-E568B169ABDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDCAAF68-C881-41D8-B35E-E568B169ABDF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EDCAAF68-C881-41D8-B35E-E568B169ABDF}.Debug|Win32.Build.0 = Debug|Win32
+		{EDCAAF68-C881-41D8-B35E-E568B169ABDF}.Release|Win32.ActiveCfg = Release|Win32
+		{EDCAAF68-C881-41D8-B35E-E568B169ABDF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
